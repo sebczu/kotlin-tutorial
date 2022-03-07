@@ -21,4 +21,5 @@ class Person2(val name: String) {
     constructor(name: String, email: String) : this(name) {
         println("second constructor")
     }
+
 }
