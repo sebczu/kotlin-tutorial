@@ -16,6 +16,9 @@
     <module>parent</module>
 
     <module>tutorial</module>
+    <module>user</module>
+
+    <module>application</module>
   </modules>
 
 </project>
